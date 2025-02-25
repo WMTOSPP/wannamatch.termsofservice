@@ -52,24 +52,28 @@ By accessing and using Wanna Match, you acknowledge that you have read, understo
 
 7.1. These Terms shall be governed and construed in accordance with the laws of the countries the App is released in, without regard to its conflict of law provisions.
 
-## 8. Disclaimers
+## 8. Child Safety and Protection
 
-8.1. The questions featured in this app are not supported by scientific or psychological research.
+8.1. We are committed to the protection of children and strictly prohibit any form of child sexual abuse, exploitation, or endangerment on our platform. Users are strictly forbidden from creating, uploading, sharing, or distributing any content that facilitates or promotes the exploitation, abuse, or trafficking of children. This includes, but is not limited to, child sexual abuse materials (CSAM), child grooming, sextortion, and any predatory behavior targeting minors. Any violation of this policy will result in immediate account suspension, content removal, and may be reported to the appropriate authorities, including the National Center for Missing & Exploited Children (NCMEC) or International Centre for Missing & Exploited Children (ICMEC) and law enforcement. If you encounter any content that may exploit a child, please report it immediately to the relevant child protection agencies.
 
-8.2. The App is provided on an "AS IS" and "AS AVAILABLE" basis. We make no representations or warranties of any kind, express or implied, regarding the availability, accuracy, reliability, or suitability of the App.
+## 9. Disclaimers
 
-8.3. We do not warrant that the App will be uninterrupted or error-free, or that unforeseen defects will be corrected.
+9.1. The questions featured in this app are not supported by scientific or psychological research.
 
-8.4. You acknowledge that your use of the App is at your sole risk. We disclaim all warranties, express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
+9.2. The App is provided on an "AS IS" and "AS AVAILABLE" basis. We make no representations or warranties of any kind, express or implied, regarding the availability, accuracy, reliability, or suitability of the App.
 
-8.5. We do not warrant or make any representations regarding the use or the results of the use of the App in terms of its correctness, accuracy, reliability, or otherwise.
+9.3. We do not warrant that the App will be uninterrupted or error-free, or that unforeseen defects will be corrected.
 
-## 9. Changes to Terms
+9.4. You acknowledge that your use of the App is at your sole risk. We disclaim all warranties, express or implied, including, but not limited to, implied warranties of merchantability, fitness for a particular purpose, and non-infringement.
 
-9.1. We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material, we will provide at least 30 days' notice prior to any new terms taking effect.
+9.5. We do not warrant or make any representations regarding the use or the results of the use of the App in terms of its correctness, accuracy, reliability, or otherwise.
 
-## 10. Contact Us
+## 10. Changes to Terms
 
-10.1. If you have any questions or concerns about these Terms of Service, please contact us at: wmprivacyandtos@gmail.com.
+10.1. We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material, we will provide at least 30 days' notice prior to any new terms taking effect.
+
+## 11. Contact Us
+
+11.1. If you have any questions or concerns about these Terms of Service, please contact us at: wmprivacyandtos@gmail.com.
 
 By using the App, you signify your acceptance of these Terms. If you do not agree to these Terms, please do not use the App.
